@@ -14,7 +14,6 @@
   - M169DSY0144 – Ardelia Saphira Wedo Putri     – m169dsy0144@bangkit.academy
 
 ## Installation
-Notes : This notebook is the version that uses local dataset (Without Credential Key)
 1. Upload the model to the google drive
 2. Upload the art
 3. Get the predicted class
